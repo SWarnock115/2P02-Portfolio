@@ -4,7 +4,7 @@
 
 Biography goes here
 
-![](Lynx_kitten.jpg)
+![](images/Lynx_kitten.jpg)
 
 ## Blog Post
 
