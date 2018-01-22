@@ -8,5 +8,4 @@ Biography goes here
 
 ## Blog Post
 
-First sentence goes here
-
+First sentence goes here [continue reading](blog)
