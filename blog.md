@@ -17,7 +17,7 @@ To fix this problem I suggest we use tools that were created with the Digital Hu
  
 While I do not believe this is the answer to all of the problems, it can not work with data, I do believe it is a step in the right direction. It might be a few more years until Digital Humanities receives a tool perfectly fitted for them.
 
-<hr2> Works Cited </h2>
+<h2> Works Cited </h2>
 
 Drucker , Johanna. “Humanities Approaches to Graphical Display.” DHQ: Digital Humanities Quarterly: Humanities Approaches to Graphical Display, Digital Humanities Quarterly, 2011, www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html.
 
