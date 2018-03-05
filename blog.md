@@ -1,4 +1,4 @@
-<h2> Responding to Drucker
+<h2> Responding to Drucker</h2>
 By: Sydnee Warnock
 
 The Digital Humanities is in a weird situation. Despite the technological nature of the area it seems to be stuck relying on outdated and illogical tools to propel the field forward. Johanna Drucker addresses this over reliance in her paper, Humanities Approaches to Graphical Display, and even attempts to fix the problem. While I believe she is on the right track I think there is an inherent flaw to her approach.
