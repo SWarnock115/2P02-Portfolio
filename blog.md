@@ -16,4 +16,13 @@ To fix this problem I suggest we use tools that were created with the Digital Hu
   <iframe style='width: 637px; height: 495px;' src='//voyant-tools.org/tool/CollocatesGraph/?mode=corpus&corpus=2679f97beec8c5019e92cf2859e2c7eb'></iframe>
  
 While I do not believe this is the answer to all of the problems, it can not work with data, I do believe it is a step in the right direction. It might be a few more years until Digital Humanities receives a tool perfectly fitted for them.
-	 
+
+<hr2> Works Cited </h2>
+
+Drucker , Johanna. “Humanities Approaches to Graphical Display.” DHQ: Digital Humanities Quarterly: Humanities Approaches to Graphical Display, Digital Humanities Quarterly, 2011, www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html.
+
+Morretti, Franco. Graphs, Maps, Trees. 2003, www.mat.ucsb.edu/~g.legrady/academic/courses/09w259/Moretti_graphs.pdf.
+
+Porsdam, Helle. “Digital Humanities: On Finding the Proper Balance between Qualitative and Quantitative Ways of Doing Research in the Humanities.” DHQ, Digital Humanities Quarterly, 2013, Digital Humanities: On Finding the Proper Balance between Qualitative and Quantitative Ways of Doing Research in the Humanities.
+
+
