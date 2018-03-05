@@ -11,5 +11,4 @@ My name is Sydnee Warnock and I am a fourth year IASC student at Brock Universit
 ![](images/Lynx_kitten.jpg)
 
 ## Blog Post
-
-First sentence goes here [continue reading](blog)
+The Digital Humanities is in a weird situation [continue reading](blog)
