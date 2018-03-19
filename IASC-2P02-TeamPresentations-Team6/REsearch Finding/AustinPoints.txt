@@ -1,0 +1,31 @@
+Austin:
+Express:
+
+You can use videos, twitter, facebook, vines, and more to create a multimodal experience. The user can get creative to show information and create a narrative.
+
+Grants the ability to easily tell a story across a map, which can be useful to visualize fictional stories.
+
+We could not fully utilize the tool to express the more detailed aspects of the story, it would have been text without any meaningful pictures, which defeats the purpose of the tool.
+
+Limited space, so couldn’t fully express all details. This can be bypassed by creating multiple markers for a single event, but this results in more clutter.
+
+Maps with lots of back and forth can be hard to follow.
+
+
+Usability:
+
+Can easily create visualizations of historical events. 
+
+Can be used in both geography and history courses. For history, it can easily be used to show a chain of events. For geography, it can be used to visualize weather patterns or other changes on the planet.
+
+Allows the user to combine the usefulness of a map and conveyance of interactivity.
+
+Customization was above average. For example, you can change the icon on the markers, change background colours, as well as import your own map.
+
+It can be used as an alternative to a similar looking applications, such as Prezi, with a little bit of creativity from the user.
+
+Map controls were hard to use. The first hour of usage, slides were overwriting each other. Possibly user error, but it would still be a problem because it wasn’t conveyed.
+
+The tool itself is easy to learn, despite limited map controls. Has the potential for high usability, but requires the user to be knowledgeable in coding.
+
+One location didn’t exist in StoryMapjs, so we had to choose a nearby location.
