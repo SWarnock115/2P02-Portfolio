@@ -13,5 +13,5 @@ My name is Sydnee Warnock and I am a fourth year IASC student at Brock Universit
 ## Blog Post
 The Digital Humanities is in a weird situation. [Continue Reading](blog.md)
 
-##Slide Show
-The colossal failure of the Virtual Boy in slide form [Continue] (https://swarnock115.github.io/2P02-Portfolio/reveal.js-master/index.html)
+## Slide Show
+The colossal failure of the Virtual Boy in slide form [Continue Reading](https://swarnock115.github.io/2P02-Portfolio/reveal.js-master/index.html)
