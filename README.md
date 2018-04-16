@@ -24,6 +24,12 @@ Read about the Virtual Boy [here](https://swarnock115.github.io/2P02-Portfolio/r
 
 For the collaborative project, I and three others researched the online mapping tool StoryMap JS. The main purpose of this tool is to tell a story by mapping key locations in a story, be it fiction or real. To highlight the use of the tools I created a Storymap that highlighted the events of Whitey Bulger, a notorious American gangster. Our reseach found that the tool was simple to use but was limited by the users knowledge. It also has difficulties in mapping a story that jumps across the map as it creates a confusing mess of lines and points. Overall the tool is simple to use and is good for anyone looking to map out a linear story. 
 
+When collaborating with others for a project I find it important to make group decisions at the very beginnin. In this case that group decision was what tool would we be reasearching. After that decision was made we split the worload between the four of us. I was responsible for producing something using StoryMap JS, which can be found [here](https://docs.google.com/presentation/d/1TpvivMS9DSkUCglqKD3MxSgffAC6iVZGAQptY_OEvdc/edit#slide=id.p5). To ensure this project was easty to accomplish we utlized GtitHub which allowed us to upload and share our work with ease. The list of commits can be found here [here](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commits/Team6). Overall this collaboration was simple as each individual was responsible for their own parts and were competent enough tocomplete their assignments on time. 
+
+Below is an image of the progress that was made in the Reaserach Finding section of the assignment.
+![](images/commits.jpg)
+
+
 
 ## Academic Blog
 The Digital Humanities is in a weird situation. [Continue Reading](blog.md)
