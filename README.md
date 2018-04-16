@@ -20,7 +20,7 @@ Over time I have edited and changed to Pecha Kucha based on the feedback I recei
 Read about the Virtual Boy [here](https://swarnock115.github.io/2P02-Portfolio/reveal.js-master/index.html).
 
 ## Collaborative Project
-![](images/Storymap.jpg)
+![](images/StoryMap.jpg)
 
 For the collaborative project, I and three others researched the online mapping tool StoryMap JS. The main purpose of this tool is to tell a story by mapping key locations in a story, be it fiction or real. To highlight the use of the tools I created a Storymap that highlighted the events of Whitey Bulger, a notorious American gangster. Our reseach found that the tool was simple to use but was limited by the users knowledge. It also has difficulties in mapping a story that jumps across the map as it creates a confusing mess of lines and points. Overall the tool is simple to use and is good for anyone looking to map out a linear story. 
 
